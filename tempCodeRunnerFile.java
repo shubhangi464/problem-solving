@@ -1,0 +1,1 @@
+System.out.println(str.substring(0,i+1));
